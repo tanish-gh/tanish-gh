@@ -23,7 +23,8 @@
 <p align="left">
  <a href="https://leetcode.com/u/charizardcode/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/leetcode.svg" alt="LeetCode" height="30" width="40" /></a>
  <a href="https://codeforces.com/profile/charizardcode" target="_blank"><img align="center" src="https://cdn.simpleicons.org/codeforces" alt="Codeforces" height="30" width="40" /></a>
- <a href="https://github.com/tanish-ig" target="_blank"><img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" alt="GitHub" height="30" width="40" /></a>
+ <a href="https://www.codechef.com/users/charizardcode" target="_blank"><img align="center" src="https://cdn.simpleicons.org/codechef" alt="CodeChef" height="30" width="40" /></a>
+ <a href="https://github.com/tanish-gh" target="_blank"><img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" alt="GitHub" height="30" width="40" /></a>
 </p>
 
 ## Tech Stack
